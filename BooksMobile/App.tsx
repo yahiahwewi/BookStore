@@ -30,7 +30,7 @@ export default function App() {
 
 
         </ApolloProvider>
-        {/* <Navigation colorScheme={colorScheme} /> */}
+        <Navigation colorScheme={colorScheme} />
         <StatusBar />
       </SafeAreaProvider>
     );
